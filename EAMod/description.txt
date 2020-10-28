@@ -1,0 +1,69 @@
+EVIL  ALLIANCES
+
+The evil stirs, Terrarian. Will you take it on?
+
+MUTATIONS:
+Introducing Mutations! Now instead of being confined to the normal playstyle of the Terrarian, you can now become a beast of your world's evil biome!
+
+Carcinogeris - "The Bileborn Beast"
+ABILITIES:
+ - Spread: Carcinogeris launches tumor cells in a short radius, infecting enemies and damaging them over time.
+    - Envigorating Spread: tumor cells now extract life on damage.
+    - Fortifying Spread: Tumor cells now give a small amount of armor for each enemy afflicted.
+
+ - 
+
+Encephavara - "The Malevolent Mind"
+ABILITIES:
+ - Sonar: Casts a sonar wave that detects enemies, displaying their location on screen for a short time.
+    - Disorienting Sonar: Sonar can now distract and confuse enemies for a short time.
+    - Attuned Sonar: Sonar can now detect metals and other treasures at a short distance.
+
+ - 
+
+ - Conversion: Converts an enemy's mind and combines it with yours. Becomes your temporary ally.
+    - Volatile Conversion: After conversion wears off, the enemy releases an explosion, damaging themselves and all other enemies in the area.
+    - 
+
+ - Shedding: Encephavara sheds its bodily exterior, becoming a bony nervous system.
+   STATS: Increased movement and attack speed + an 80% chance to dodge an attack, decreased defense and health
+    - Shedding Shrapnel: Shed skin immediately calcifies, turning into darts that impale enemies.
+   - 
+
+ENHANCEMENT TREE:
+There are many upgrades and enhancements you can obtain to better yourself while in mutation mode (or outside as well)
+Craft and unlock them all!
+
+WEAPON MUTATIONS
+Certain weapons have fallen ill to the world's evil, turning them into hellish shells of their former selves.
+Some weapons include:
+-Daedalus Stormbow
+-Night's Edge
+-Excalibur
+-Boomstick
+-
+Craft and collect them all!
+
+EVIL BIOMES REWORKED
+Corruption:
+New tiles and stones to replace ebonstone
+New sprites and enemies
+New weapon set sprites
+Bile Pools: Weakens player attack by a small amount
+Cancer Gas: Damages the player over time (only in the underground during hardmode)
+Eater of Worlds: Reworked for the mod
+
+Crimson:
+New tiles and stones to replace crimstone
+New sprites and enemies
+New weapon set sprites
+Ichor Pools: Weakens player defense by a small amount
+Encephalon Gas: Damages the player over time (only in the underground during hardmode)
+Brain of Cthulhu: Reworked
+
+NEW INVASION: EVIL OFFENSIVE
+Creatures of the world's evil are going on the offensive! Stop them from spreading further!
+New enemies during invasions
+New weapon and loot rewards
+Has the possibility to spread evil...
+
