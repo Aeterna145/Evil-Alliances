@@ -1,3 +1,0 @@
-displayName = Evil Alliances
-author = Æterna
-version = 1.0
